@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World 👋
+
+
+#Techstack I can code in
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
 <!--
 **nehais/nehais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
